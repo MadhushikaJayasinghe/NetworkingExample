@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Networking Example</string>
+    <string name="download_image">Download Image</string>
+    <string name="next">Next</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_json">Request Json</string>
+    <string name="btn_image">Request Image</string>
+</resources>
